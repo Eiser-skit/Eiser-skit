@@ -1,4 +1,4 @@
-# Eiser-skit
+
 # Eiser
 
 Welcome to **Eiser**—a cutting-edge eCommerce platform designed to provide a seamless and enjoyable online shopping experience. Eiser offers a comprehensive suite of features for both shoppers and administrators, ensuring an intuitive and powerful solution for managing and purchasing products online.
