@@ -1,8 +1,7 @@
+# Eiser-skit
 # Eiser
 
 Welcome to **Eiser**—a cutting-edge eCommerce platform designed to provide a seamless and enjoyable online shopping experience. Eiser offers a comprehensive suite of features for both shoppers and administrators, ensuring an intuitive and powerful solution for managing and purchasing products online.
-
-![Eiser Logo](https://via.placeholder.com/150)
 
 ## 📦 Features
 
@@ -43,4 +42,4 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/eiser.git
    cd eiser
-# Eiser-skit
+
